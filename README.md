@@ -19,7 +19,7 @@
   <img align="center" alt="Gui-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Gui-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Gui-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="Gui-yoda" src="https://www.nerdfitness.com/wp-content/uploads/2019/06/breakfast-club.gif">
+  <img align="right" alt="Nerd-Gif" src="https://www.nerdfitness.com/wp-content/uploads/2019/06/breakfast-club.gif">
 </div>
   
   ##
